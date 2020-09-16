@@ -1,0 +1,7 @@
+{
+  "domain": "sr595_infinity_cascade_switch",
+  "name": "sr595_infinity_cascade_switch",
+  "documentation": "https://www.home-assistant.io/integrations/sr595_infinity_cascade_switch",
+  "requirements": ["wiringpi==2.60.0"],
+  "codeowners": ["@SaWey"]
+}
