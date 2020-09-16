@@ -25,10 +25,10 @@ Optionally the pin configuration can be changed:
 switch:
   - platform: sr595_infinity_cascade_switch
     base_pin: 100
-	pin_count: 32
-	data_pin: 12
-	clock_pin: 14
-	latch_pin: 10
+    pin_count: 32
+    data_pin: 12
+    clock_pin: 14
+    latch_pin: 10
     devices:
     - address: 1
       name: Bathroom
